@@ -1,0 +1,72 @@
+/* custom font */
+@import url(https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap);
+
+body {
+    margin: 0;
+    padding: 10px;
+    width: 300px;
+  }
+  
+  #tabby-container {
+    text-align: center;
+    font-family: "Patrick Hand SC";
+    font-size: medium;
+  }
+
+ input {
+    width: 80%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  
+  h1 {
+    font-size: 29px;
+    margin-bottom: 10px;
+    font-family: "Patrick Hand SC";
+  }
+  
+  input {
+    width: 80%;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #f69c3b;
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #da6f0a;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 5px 10px;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3px;
+    padding-left: 5px;
+  }
+  
+  #search-bar {
+    width: 80%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  
+
+  
