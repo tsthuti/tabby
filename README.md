@@ -7,5 +7,6 @@ tabby, the orange tabby cat, guards and stores your chrome tabs so that you don'
 1. one-click tab restoration
 2. tabs are stored across browser sessions, tabby saves your groups _permanantely_ (nice kitty)
 3. does not slow down chrome like other tab managers that sync everything to the cloud
+4. embedded search feature to save and group as many tabs as your heart desires, but still in an organized way
 
 try tabby today! 
